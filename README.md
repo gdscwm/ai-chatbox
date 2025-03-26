@@ -12,7 +12,7 @@ This app will let users interact with an AI-powered chatbot, ask questions, and 
 - **React Frontend**: A user-friendly and responsive frontend built with React, providing an intuitive interface to interact with the chatbot.
 - **Dockerized Setup**: Both the frontend and backend are containerized using Docker, allowing easy setup and deployment.
 
-- ## Demo
+## Demo
 
 Here’s a quick demo of how the project works:
 
