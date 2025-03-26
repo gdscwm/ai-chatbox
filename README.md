@@ -42,7 +42,6 @@
  
  Before you begin, ensure you have the following installed on your machine:
  
- - [Docker](https://www.docker.com/products/docker-desktop)
  - [Docker Compose](https://docs.docker.com/compose/install/)
  - [Java 17](https://adoptopenjdk.net/) (if running the Spring Boot app locally)
  - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (if running the React app locally)
